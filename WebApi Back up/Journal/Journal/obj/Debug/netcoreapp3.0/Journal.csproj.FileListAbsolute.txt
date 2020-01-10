@@ -1,0 +1,14 @@
+C:\Users\mondVM\source\repos\Journal\Journal\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\mondVM\source\repos\Journal\Journal\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\mondVM\source\repos\Journal\Journal\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\mondVM\source\repos\Journal\Journal\bin\Debug\netcoreapp3.0\Journal.exe
+C:\Users\mondVM\source\repos\Journal\Journal\bin\Debug\netcoreapp3.0\AutoMapper.dll
+C:\Users\mondVM\source\repos\Journal\Journal\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\mondVM\source\repos\Journal\Journal\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\mondVM\source\repos\Journal\Journal\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mondVM\source\repos\Journal\Journal\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\mondVM\source\repos\Journal\Journal\obj\Debug\netcoreapp3.0\Journal.csprojAssemblyReference.cache
+C:\Users\mondVM\source\repos\Journal\Journal\obj\Debug\netcoreapp3.0\Journal.AssemblyInfoInputs.cache
+C:\Users\mondVM\source\repos\Journal\Journal\obj\Debug\netcoreapp3.0\Journal.AssemblyInfo.cs
+C:\Users\mondVM\source\repos\Journal\Journal\obj\Debug\netcoreapp3.0\Journal.RazorTargetAssemblyInfo.cache
+C:\Users\mondVM\source\repos\Journal\Journal\obj\Debug\netcoreapp3.0\Journal.csproj.CopyComplete

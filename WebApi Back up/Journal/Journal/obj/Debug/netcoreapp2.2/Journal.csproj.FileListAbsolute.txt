@@ -1,0 +1,15 @@
+C:\Users\mondVM\source\repos\Journal\Journal\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\mondVM\source\repos\Journal\Journal\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\mondVM\source\repos\Journal\Journal\bin\Debug\netcoreapp2.2\Journal.deps.json
+C:\Users\mondVM\source\repos\Journal\Journal\bin\Debug\netcoreapp2.2\Journal.runtimeconfig.json
+C:\Users\mondVM\source\repos\Journal\Journal\bin\Debug\netcoreapp2.2\Journal.runtimeconfig.dev.json
+C:\Users\mondVM\source\repos\Journal\Journal\bin\Debug\netcoreapp2.2\Journal.dll
+C:\Users\mondVM\source\repos\Journal\Journal\bin\Debug\netcoreapp2.2\Journal.pdb
+C:\Users\mondVM\source\repos\Journal\Journal\obj\Debug\netcoreapp2.2\Journal.csprojAssemblyReference.cache
+C:\Users\mondVM\source\repos\Journal\Journal\obj\Debug\netcoreapp2.2\Journal.RazorAssemblyInfo.cache
+C:\Users\mondVM\source\repos\Journal\Journal\obj\Debug\netcoreapp2.2\Journal.RazorAssemblyInfo.cs
+C:\Users\mondVM\source\repos\Journal\Journal\obj\Debug\netcoreapp2.2\Journal.AssemblyInfoInputs.cache
+C:\Users\mondVM\source\repos\Journal\Journal\obj\Debug\netcoreapp2.2\Journal.AssemblyInfo.cs
+C:\Users\mondVM\source\repos\Journal\Journal\obj\Debug\netcoreapp2.2\Journal.RazorTargetAssemblyInfo.cache
+C:\Users\mondVM\source\repos\Journal\Journal\obj\Debug\netcoreapp2.2\Journal.dll
+C:\Users\mondVM\source\repos\Journal\Journal\obj\Debug\netcoreapp2.2\Journal.pdb
